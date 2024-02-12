@@ -10,7 +10,8 @@ This Power BI project showcases a dynamic dashboard that visualizes various aspe
 - **Python**: For scripting the data loading and transformation processes, including API calls for URL data.
 - **HTML Content Plugin**: For embedding HTML code within the Power BI dashboard.
 - **JSON**: For advanced graphical representations of the danceability metric through ENEB graphics.
-- 
+- **Power Point**: The dashboard's engaging and cohesive visual design includes a custom background created with PowerPoint to enhance the user experience.
+
 ## Features
 
 - **ENEB Advanced Graphics**: For the danceability visualization, advanced graphics powered by ENEB are utilized, which incorporate JSON coding for a rich and interactive user experience.
